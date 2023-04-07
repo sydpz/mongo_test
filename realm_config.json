@@ -1,9 +1,8 @@
 {
-    "app_id": "application-6-ctypg",
+    "app_id": "application-8-mtzlz",
     "config_version": 20210101,
-    "name": "Application-6",
+    "name": "Application-8",
     "location": "SG",
     "provider_region": "aws-ap-southeast-1",
-    "deployment_model": "LOCAL",
-    "environment": "testing"
+    "deployment_model": "LOCAL"
 }

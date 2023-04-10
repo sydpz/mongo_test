@@ -3,7 +3,6 @@
         "route": "/test1",
         "http_method": "POST",
         "function_name": "test",
-		"sql_file": "fadsfas \n fdafasfdas",
 		"validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,

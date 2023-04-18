@@ -7,13 +7,15 @@ exports = async function(arg){
   var serviceName = "mongodb-atlas";
 
   // Update these to reflect your db/collection
-  var dbName = "db_name1";
+  var dbName = "db_name";
   var collName = "coll_name";
 
   // Get a collection from the context
   var collection = context.services.get(serviceName).db(dbName).collection(collName);
 
-  var findResult2131;
+
+  var testDiff;
+  var findResult;
   try {
     // Get a value from the context (see "Values" tab)
     // Update this to reflect your value's name.

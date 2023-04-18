@@ -18,5 +18,10 @@
         "name": "Function_4",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "Function_5",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]

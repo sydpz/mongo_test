@@ -2,7 +2,7 @@
     {
         "route": "/teste1",
         "http_method": "POST",
-        "function_name": "Function_5",
+        "function_name": "Function_3",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,
@@ -13,7 +13,7 @@
     {
         "route": "/teste2",
         "http_method": "POST",
-        "function_name": "Function_5",
+        "function_name": "Function_3",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,

@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "Function_01",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]

@@ -13,9 +13,7 @@ exports = async function(arg){
   // Get a collection from the context
   var collection = context.services.get(serviceName).db(dbName).collection(collName);
 
-
-  var testDiff;
-  var findResult;
+  var findResult2131;
   try {
     // Get a value from the context (see "Values" tab)
     // Update this to reflect your value's name.

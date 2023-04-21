@@ -4,7 +4,7 @@ exports = async function(arg){
   // https://www.mongodb.com/docs/atlas/app-services/functions/
 
   // Find the name of the MongoDB service you want to use (see "Linked Data Sources" tab)
-  var serviceName = "mongodb-atlas";
+  var serviceName = "mongodb-atlas-github";
 
   // Update these to reflect your db/collection
   var dbName = "db_name";

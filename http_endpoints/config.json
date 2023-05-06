@@ -2,7 +2,7 @@
     {
         "route": "/teste121",
         "http_method": "POST",
-        "function_name": "Function_3",
+        "function_name": "Function_01",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,
@@ -14,17 +14,6 @@
         "route": "/teste2",
         "http_method": "POST",
         "function_name": "Function_5",
-        "validation_method": "NO_VALIDATION",
-        "respond_result": false,
-        "fetch_custom_user_data": false,
-        "create_user_on_auth": false,
-        "disabled": false,
-        "return_type": "JSON"
-    },
-    {
-        "route": "/tesst2",
-        "http_method": "POST",
-        "function_name": "Function_3",
         "validation_method": "NO_VALIDATION",
         "respond_result": false,
         "fetch_custom_user_data": false,

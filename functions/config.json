@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "name": "Function_5",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Function_6",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Function_01",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Function_2dsa",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Function_3",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "Function_4",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]

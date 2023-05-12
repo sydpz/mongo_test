@@ -20,6 +20,11 @@
         "disable_arg_logs": true
     },
     {
+        "name": "Function_1",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
         "name": "Function_2dsa",
         "private": false,
         "disable_arg_logs": true

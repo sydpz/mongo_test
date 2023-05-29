@@ -5,11 +5,6 @@
         "disable_arg_logs": true
     },
     {
-        "name": "Function_3",
-        "private": false,
-        "disable_arg_logs": true
-    },
-    {
         "name": "Function_4",
         "private": false,
         "disable_arg_logs": true

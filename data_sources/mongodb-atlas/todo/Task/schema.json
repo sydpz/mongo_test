@@ -1,0 +1,17 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "_partition": {
+            "bsonType": "string"
+        },
+        "isComplete": {
+            "bsonType": "bool"
+        },
+        "summary": {
+            "bsonType": "string"
+        }
+    },
+    "title": "Task"
+}

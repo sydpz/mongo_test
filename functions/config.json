@@ -8,5 +8,11 @@
         "name": "Function_4",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "Function_6",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
     }
 ]
